@@ -4,7 +4,7 @@
 
 #include <ESP8266WiFi.h>
 
-const char* ssid     = "MICA-open";
+const char* ssid     = "MICA-Open";
 const char* password = "18261826";
 
 const char* host = "wifitest.adafruit.com";
